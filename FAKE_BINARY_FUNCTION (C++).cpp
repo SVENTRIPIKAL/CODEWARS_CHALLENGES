@@ -1,8 +1,7 @@
-// Given a string of digits, you should replace any digit
-// below 5 with '0' and any digit 5 and above with '1'.
-// Return the resulting string.
-
-//INPUT: "45385593107843568", OUTPUT:"01011110001100111".
+// FAKE BINARY
+// converts string of numbers to binary
+// returning '0' for numbers 4 or less, 
+// and returning '1' for numbers 5 or greater.
 
 #include <iostream>
 using namespace std;
