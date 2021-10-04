@@ -1,3 +1,8 @@
+// HIGHEST AND LOWEST NUMBERS
+// function returns a string of the
+// highest and lowest numbers from a
+// string containing numbers, dashes, & spaces.
+
 #include <iostream>
 #include <string>
 #include <vector>
