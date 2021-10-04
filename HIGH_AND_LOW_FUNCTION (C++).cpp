@@ -89,3 +89,17 @@ string highAndLow( string numbers )
     
     return newString ;                              // return newString
 }
+
+
+
+//MINI-TEST
+int main()
+{
+    string STRING = "-20 10 50 20 -200 30" ;
+    
+    string NEWSTRING = highAndLow( STRING ) ;
+    
+    cout << NEWSTRING << endl ;
+    
+    return 0 ;
+}
