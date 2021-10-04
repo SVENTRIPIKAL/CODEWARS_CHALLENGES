@@ -5,7 +5,7 @@
 // same list with all strings
 // removed.
 
-function reomoveStrings( list )
+function removeStrings( list )
 {
     let newList = [] ;
     
@@ -26,6 +26,6 @@ function reomoveStrings( list )
 //MINI-TEST
 let LIST = [ 'a', 'b', 'c', 1, 2, 3 ] ;
 
-let NEWLIST = reomoveStrings( LIST ) ;
+let NEWLIST = removeStrings( LIST ) ;
 
 console.log( NEWLIST ) ;
