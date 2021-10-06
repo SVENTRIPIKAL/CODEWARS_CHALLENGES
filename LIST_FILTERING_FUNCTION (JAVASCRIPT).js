@@ -13,7 +13,7 @@ function removeStrings( list )
     {
         if ( typeof list[i] === 'string' )
         {
-            continue;
+            continue ;
         }
         
         newList.push( list[i] ) ;
