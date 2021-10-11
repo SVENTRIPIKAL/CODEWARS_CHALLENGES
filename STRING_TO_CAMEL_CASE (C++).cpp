@@ -12,8 +12,6 @@ using namespace std ;
 
 //=======================================================[ USER-DEFINED FUNCTIONS ]
 
-// #include "MyFunctions.h"     // imports functions from "MyFunctions.h" document
-
 string stringToCamel( string text )
 {
     string solution = "" ;
