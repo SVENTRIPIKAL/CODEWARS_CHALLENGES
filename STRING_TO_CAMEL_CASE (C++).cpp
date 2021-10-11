@@ -2,7 +2,7 @@
 *   
 *   function converts strings with dashes
 *   and underscores to camel case; the first
-*   word being capitalied only if initially capitalized.
+*   word being capitalized only if initially capitalized.
 *   
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
 
