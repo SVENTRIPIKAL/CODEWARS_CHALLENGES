@@ -1,6 +1,6 @@
 /*  MOVE ZEROES TO END
 *   
-*   function moves all zeros within an
+*   function moves all zeroes within an
 *   array to the end while preserving
 *   element order.
 *   
