@@ -1,7 +1,7 @@
 /*  SUM OF DIGITS / DIGITAL ROOT
 *   
 *   function returns a single-digit integer, if not already,
-*   by continually adding each digit within a given number
+*   by continually adding each digit within the given number
 *   until a single digit remains.
 *   
 *   [ Example: 945 --> 9 + 4 + 5 = 18 --> 1 + 8 = 9 ]
